@@ -1,0 +1,29 @@
+nav li{ display: inline;
+}
+h1 {
+        text-align: center;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-style: italic;
+}
+.img-principal{
+    display: block;
+    margin:auto;
+}
+body {
+    background-color: rgb(247, 222, 224);
+  }
+
+h2{
+    font-family: cursive;
+    text-align: left;
+}
+li{
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+}
+p{
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+}
+h3{
+    font-family: cursive;
+    
+}
